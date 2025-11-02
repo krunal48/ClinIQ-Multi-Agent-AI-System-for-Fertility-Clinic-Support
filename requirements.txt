@@ -1,0 +1,12 @@
+﻿ultralytics==8.3.21
+pillow
+opencv-python-headless
+numpy
+pymupdf
+pytesseract
+sentence-transformers
+pinecone
+streamlit
+openai
+boto3
+dotenv
