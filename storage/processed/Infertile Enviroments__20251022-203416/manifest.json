@@ -1,0 +1,454 @@
+{
+  "file": "storage\\tmp\\Infertile Enviroments.pdf",
+  "id": "ddecf8deddea2ec185db1701b332e6a5602ea261",
+  "created_at": 1761161667,
+  "pages": [
+    {
+      "page": 1,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_01_annotated.jpg",
+      "detections": [
+        {
+          "x1": 0.0,
+          "y1": 0.0,
+          "x2": 1200.0,
+          "y2": 1686.5716552734375,
+          "label": "captioned image",
+          "conf": 0.7891707420349121,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_01_crop_01_captioned image.jpg",
+          "text": "sam 1 ar 1a @ay 2taume Ss\nSi: “Se tie Seen ee se Bone. a o Sa\n2 | anaes a aiaeeaatis CaSO, Bete. ae\nA \" 2a Be CS Lt. =e —\nee Pe Deis SSE ‘ears c | CU aiaies Sty\noe Sage ‘ Sie eae\n; Viaggi See ee\nee —sdHealthof.\nPES PSN inese Men”\nee _._ Chinese Men ee\nSeat t ce + 2 RSS SNM ian Pe Mie erate\n$ ae pes) a tee a ee ies ee\n5 2S TRS TEER Sta eee 2d yo ee eS BR S Pet icy yo) earn\n55S i ae Tanga € Syren oH ia IN oe elke. _ es\n; ees Da a , moreau ee\nSaas %g SSR st 2 rrr GaP Oia vg eS Ws\nNEO rE ay oa as OS Se a a\nUIE es ae ae eee"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_02_annotated.jpg",
+      "detections": []
+    },
+    {
+      "page": 3,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_03_annotated.jpg",
+      "detections": [
+        {
+          "x1": 154.7744598388672,
+          "y1": 1544.125244140625,
+          "x2": 812.9403076171875,
+          "y2": 1641.4703369140625,
+          "label": "paragraph",
+          "conf": 0.589679479598999,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_03_crop_01_paragraph.jpg",
+          "text": "Critical Global Health: Evidence, Efficacy, Ethnography\nA series edited by Vincanne Adams and Joao Biehl"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_04_annotated.jpg",
+      "detections": [
+        {
+          "x1": 272.5392150878906,
+          "y1": 1003.1942138671875,
+          "x2": 1044.8699951171875,
+          "y2": 1193.9364013671875,
+          "label": "paragraph",
+          "conf": 0.7271303534507751,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_04_crop_01_paragraph.jpg",
+          "text": "Epigenetic Toxicology and the\nReproductive Health of Chinese Men"
+        },
+        {
+          "x1": 148.2244415283203,
+          "y1": 835.5493774414062,
+          "x2": 1036.1785888671875,
+          "y2": 948.5750122070312,
+          "label": "title",
+          "conf": 0.6064678430557251,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_04_crop_02_title.jpg",
+          "text": "Infertile Environments"
+        },
+        {
+          "x1": 624.945556640625,
+          "y1": 336.3221435546875,
+          "x2": 1030.7818603515625,
+          "y2": 393.6617431640625,
+          "label": "title",
+          "conf": 0.5165669322013855,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_04_crop_03_title.jpg",
+          "text": "JANELLE LAMOREAUX"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_05_annotated.jpg",
+      "detections": [
+        {
+          "x1": 172.5286865234375,
+          "y1": 1355.3978271484375,
+          "x2": 863.9744262695312,
+          "y2": 1628.6851806640625,
+          "label": "paragraph",
+          "conf": 0.8620754480361938,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_05_crop_01_paragraph.jpg",
+          "text": "Cover art: Fluorescence in situ hybridization (FISH) of human sperm\ncells. Image by Aliza Amiel, from the paper “Interchromosomal\nEffect Leading to an Increase in Aneuploidy in Sperm Nuclei\n\nin a Man Heterozygous for Pericentric Inversion (inv 9) and\nC-heterochromatin,” by Aliza Amiel, Federica Sardos-Albertini,\nMoshe D. Fejgin, Reuven Sharony, Roni Diukman, and Benjamin\nBartoov. Journal of Human Genetics 46, no. 5 (April 2001): 245-50.\nCourtesy of Aliza Amiel."
+        },
+        {
+          "x1": 170.50677490234375,
+          "y1": 968.5953369140625,
+          "x2": 819.5228271484375,
+          "y2": 1180.791748046875,
+          "label": "paragraph",
+          "conf": 0.7139678001403809,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_05_crop_02_paragraph.jpg",
+          "text": "Subjects: LCsH: Medical anthropology—Research—China. |\nReproductive toxicology—Research—China. | Genetic toxicology—\nResearch—China. | Male reproductive health—Research—China. |\nEnvironmental health—Research—China. | Toxicology—Research—\nChina. | Infertility, Male—Research—China. | Endocrine disrupting\nchemicals—Environmental aspects. | BISAC: SOCIAL SCIENCE /\nAnthropology / Cultural & Social | SCIENCE"
+        },
+        {
+          "x1": 166.38922119140625,
+          "y1": 329.5805358886719,
+          "x2": 794.0988159179688,
+          "y2": 576.1043090820312,
+          "label": "paragraph",
+          "conf": 0.5381478071212769,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_05_crop_03_paragraph.jpg",
+          "text": "© 2023 DUKE UNIVERSITY PRESS\n\nAll rights reserved\n\nPrinted in the United States of America on acid-free paper co\nDesigned by A. Mattson Gallagher\n\nProject editor: Bird Williams\n\nTypeset in Adobe Text Pro by Westchester Publishing Services"
+        },
+        {
+          "x1": 168.20726013183594,
+          "y1": 337.3871765136719,
+          "x2": 839.7139892578125,
+          "y2": 1659.13623046875,
+          "label": "paragraph",
+          "conf": 0.40548577904701233,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_05_crop_04_paragraph.jpg",
+          "text": "© 2023 DUKE UNIVERSITY PRESS\n\nAll rights reserved\n\nPrinted in the United States of America on acid-free paper co\nDesigned by A. Mattson Gallagher\n\nProject editor: Bird Williams\n\nTypeset in Adobe Text Pro by Westchester Publishing Services\nLibrary of Congress Cataloging-in-Publication Data\n\nNames: Lamoreaux, Janelle, author.\n\nTitle: Infertile environments: epigenetic toxicology and the reproductiv\nhealth of Chinese men / Janelle Lamoreaux.\n\nOther titles: Critical global health.\n\nDescription: Durham : Duke University Press, 2022. | Series: Critical\nglobal health: evidence, efficacy, ethnography | Includes bibliographical\nreferences and index.\n\nIdentifiers: LCCN 2022027030 (print)\n\nLCCN 2022027031 (ebook)\n\nISBN 9781478016700 (hardcover)\n\nISBN 9781478019336 (paperback)\n\nISBN 9781478023975 (ebook)\n\nSubjects: LCsH: Medical anthropology—Research—China. |\nReproductive toxicology—Research—China. | Genetic toxicology—\nResearch—China. | Male reproductive health—Research—China. |\nEnvironmental health—Research—China. | Toxicology—Research—\nChina. | Infertility, Male—Research—China. | Endocrine disrupting\nchemicals—Environmental aspects. | BISAC: SOCIAL SCIENCE /\nAnthropology / Cultural & Social | SCIENCE\n\nGeneral Classification: LCC GN296.5.C6 L366 2022 (print)\n\nLCC GN296.5.C6 (ebook)\n\nDDC 306.4/61072051—dc23/eng/20220803\n\nLC record available at https: //Iccn.loc.gov/2022027030\n\nLC ebook record available at https://lccn.loc.gov/2022027031\n\nCover art: Fluorescence in situ hybridization (FISH) of human spert\ncells. Image by Aliza Amiel, from the paper “Interchromosomal\nEffect Leading to an Increase in Aneuploidy in Sperm Nuclei\n\nin a Man Heterozygous for Pericentric Inversion (inv 9) and\nC-heterochromatin,” by Aliza Amiel, Federica Sardos-Albertini,\nMoshe D. Fejgin, Reuven Sharony, Roni Diukman, and Benjamin\nBartoov. Journal of Human Genetics 46, no. 5 (April 2001): 245-50.\nCourtesy of Aliza Amiel."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_06_annotated.jpg",
+      "detections": []
+    },
+    {
+      "page": 7,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_07_annotated.jpg",
+      "detections": []
+    },
+    {
+      "page": 8,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_08_annotated.jpg",
+      "detections": [
+        {
+          "x1": 140.17189025878906,
+          "y1": 980.5589599609375,
+          "x2": 644.6000366210938,
+          "y2": 1350.1170654296875,
+          "label": "paragraph",
+          "conf": 0.8649436235427856,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_08_crop_01_paragraph.jpg",
+          "text": "Introduction\nONE The National Environment\nTWO The Hormonal Environment\nTHREE The Dietary Environment\nFOUR The Maternal Environment\nFIVE The Laboratory Environment\nCoda"
+        },
+        {
+          "x1": 819.2945556640625,
+          "y1": 333.2449645996094,
+          "x2": 1025.9168701171875,
+          "y2": 385.6571350097656,
+          "label": "title",
+          "conf": 0.6230962872505188,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_08_crop_02_title.jpg",
+          "text": "CONTENTS"
+        },
+        {
+          "x1": 137.8716278076172,
+          "y1": 862.2605590820312,
+          "x2": 1038.380126953125,
+          "y2": 1544.419921875,
+          "label": "captioned image",
+          "conf": 0.6215235590934753,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_08_crop_03_captioned image.jpg",
+          "text": "Preface ix\nAcknowledgments xv\nIntroduction 1\nONE The National Environment 21\nTWO The Hormonal Environment 35\nTHREE The Dietary Environment 52\nFOUR The Maternal Environment 64\nFIVE The Laboratory Environment 77\nCoda 92\nEpilogue 97\nNotes 103\nReferences 109\nIndex 129"
+        },
+        {
+          "x1": 140.08641052246094,
+          "y1": 853.4437255859375,
+          "x2": 1032.045166015625,
+          "y2": 1543.8795166015625,
+          "label": "paragraph",
+          "conf": 0.4462067186832428,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_08_crop_04_paragraph.jpg",
+          "text": "Preface ix\nAcknowledgments xv\nIntroduction 1\nONE The National Environment 21\nTWO The Hormonal Environment 35\nTHREE The Dietary Environment 52\nFOUR The Maternal Environment 64\nFIVE The Laboratory Environment 77\nCoda 92\nEpilogue 97\nNotes 103\nReferences 109\nIndex 129"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_09_annotated.jpg",
+      "detections": []
+    },
+    {
+      "page": 10,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_10_annotated.jpg",
+      "detections": [
+        {
+          "x1": 162.79617309570312,
+          "y1": 877.1075439453125,
+          "x2": 1028.525390625,
+          "y2": 1379.790771484375,
+          "label": "paragraph",
+          "conf": 0.9619611501693726,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_10_crop_01_paragraph.jpg",
+          "text": "Before returning to school for graduate studies, I worked at Cornell Univer-\nsity’s Center for Reproductive Medicine and Infertility (CRM1), a fertility\ntreatment clinic in New York City’s Upper East Side. As a patient coordina-\ntor at a clinic renowned for its high success rates and cutting-edge research,\nI helped patients from around the world navigate the difficult process of\ninfertility treatment through reproductive technologies. Many of the pa-\ntients I “coordinated” —a task that involved a combination of administrative\nprocessing, appointment scheduling, medical education, and impromptu\ncounseling—had been unsuccessfully treated for infertility prior to their\nappointment at CRMI. During my two years in this position, between 2004\nand 2006, I spoke with hundreds of individuals and couples undergoing\ntreatment for infertility, many of whom had grappled with this diagnosis\nfor came time."
+        },
+        {
+          "x1": 156.98965454101562,
+          "y1": 1392.12744140625,
+          "x2": 1023.9305419921875,
+          "y2": 1634.965087890625,
+          "label": "paragraph",
+          "conf": 0.87835294008255,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_10_crop_02_paragraph.jpg",
+          "text": "Most of the couples I met were in their late thirties and early forties.\nOthers were younger or older, from their early twenties to early fifties. Most\nseemed simultaneously frustrated by their infertility and determined to pursue\ntreatment. Others were confused and dismayed, or excited and eager. Some\nof the patients I treated were single. Others were partnered in gay, lesbian,\nor queer relationships that remade heteronormative ideas of parenting and"
+        },
+        {
+          "x1": 848.1929931640625,
+          "y1": 334.7314758300781,
+          "x2": 1027.9639892578125,
+          "y2": 386.7689208984375,
+          "label": "title",
+          "conf": 0.5646021366119385,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_10_crop_03_title.jpg",
+          "text": "PREFACE"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_11_annotated.jpg",
+      "detections": [
+        {
+          "x1": 171.57717895507812,
+          "y1": 658.5494384765625,
+          "x2": 1032.571044921875,
+          "y2": 1269.6953125,
+          "label": "paragraph",
+          "conf": 0.9599583148956299,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_11_crop_01_paragraph.jpg",
+          "text": "During my interactions with patients, they often spoke about how difficult\nit was when their predicted path to parenthood had been derailed.! Women\ndiagnosed with “advanced maternal age” often expressed the feeling that this\nwas their last chance to be parents. They didn’t know they wanted to have\nchildren so much until it was too late or had only now met someone with\nwhom they wanted to have kids.” In and outside of the clinic, questions of\nage permeated discussions of infertility, especially “female-factor infertility.”\nSex-specific structural abnormalities such as polyps and endometriosis also\ncame up, but less frequently. In my discussions with men diagnosed with\n“male-factor infertility,” age was not often brought up. But they too expressed\nanxiety, often over the phone, during calls that took place after our in-person\nmeetings. I answered nervous questions about the semen-collection process\nand repeated the details of semen-analysis procedures so many times that\nThad a script for nearly every nervous query. Other men and women faced\nthe difficult challenge of being diagnosed with “unexplained infertility” and\nlamented the lack of clarity that such an enigmatic label conferred."
+        },
+        {
+          "x1": 164.62274169921875,
+          "y1": 111.64167022705078,
+          "x2": 1036.9232177734375,
+          "y2": 650.45947265625,
+          "label": "paragraph",
+          "conf": 0.9566866159439087,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_11_crop_02_paragraph.jpg",
+          "text": "reproduction in creative ways. There were widows pursuing pregnancy with\nthe sperm of their deceased partners, and divorcées making time lines work\nwith the help of best friends. There were former cancer patients pursuing in\nvitro fertilization (IVF) who had frozen their eggs or sperm before radiation\nor chemotherapy. There were transnational couples undergoing intrauterine\ninsemination (1UI) because they were never together in the right place at\nthe right time. Some patients were middle-class or low-income and seeking\nservices through a grant program sponsored by the state of New York. But\nmost of the people I helped treat were wealthy, heterosexual couples of a\nvariety of ethnicities, nationalities, religious affiliations, and professions who\nhad been trying to conceive for six months or longer and had not “achieved\npregnancy” (as they say, as if such acts are a personal accomplishment) or\nwhose pregnancy or pregnancies “had not resulted in a live birth” (in other\nwords, had ended in miscarriage or stillbirth)."
+        },
+        {
+          "x1": 169.726318359375,
+          "y1": 1273.181884765625,
+          "x2": 1034.908935546875,
+          "y2": 1632.027587890625,
+          "label": "paragraph",
+          "conf": 0.9091457724571228,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_11_crop_03_paragraph.jpg",
+          "text": "Statistically speaking, unexplained infertility is said to affect approxi-\nmately 20 percent of those seeking infertility services, with the 80 percent\nof remaining cases shared equally between male factor and female factor.\nTo me these unexplained diagnoses, as well as the inexplicable dimensions\nof common biological explanations for infertility, were the most difficult to\ndiscuss. In situations where the cause of infertility was more obvious—for\ninstance, in cases of advanced maternal age, structural obstruction, or azo-\nospermia (the absence of sperm)—there seemed to be physical explanations\nfor difficulty conceiving. But with unexplained infertility, answers were less"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_12_annotated.jpg",
+      "detections": [
+        {
+          "x1": 156.43312072753906,
+          "y1": 108.0322494506836,
+          "x2": 1028.1026611328125,
+          "y2": 613.3585205078125,
+          "label": "paragraph",
+          "conf": 0.9486308693885803,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_12_crop_01_paragraph.jpg",
+          "text": "clear. Low sperm counts, irregular periods, polyps or fibroids, low sperm\nquality, anti-sperm antibodies—these were conditions often discovered dur-\ning diagnostic procedures. However, they weren’t really causal factors, more\nlike inhibiting symptoms ofa bigger problem or broader issue, poorly under-\nstood. I increasingly found myself thinking about what was making sperm\ndecline, polyps grow, periods stagger, and cervical mucus become “hostile”\nto sperm.> What were the root causes of infertility, and why weren't they\nbeing discussed? Physicians often prescribed reproductive technologies to\npatients in such unexplainable circumstances; as reproduction scholar Sarah\nFranklin writes, “Into the breach of explanation is inserted a technological\nenablement” (1997, 322). A lack of explanation first enabled costly diagnostic\nprocedures, then 1UI, then IVF, then IVF with intracytoplasmic sperm injec-\ntion (ICSI) or pre-implantation genetic diagnosis (PGD)..."
+        },
+        {
+          "x1": 158.28208923339844,
+          "y1": 621.0823364257812,
+          "x2": 1035.8814697265625,
+          "y2": 1230.583251953125,
+          "label": "paragraph",
+          "conf": 0.9358159303665161,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_12_crop_02_paragraph.jpg",
+          "text": "My desire for a more generous rendering of infertility’s cause increased as\nI was repeatedly confronted with patients’ questions of why. Why can’t I get\npregnant? Why is it so easy for others my age to conceive? Why am I infertile?\nSuch questions take on heightened meaning at a moment when individuals are\noften blamed for health problems. Questions about why a specific person is\ninfertile can quickly turn into answers that stress individual responsibility for\nreproductive health. For instance, patients often wondered if they had done\nsomething to cause their infertility or were doing something wrong in their\nefforts to conceive. They looked for suggestions for things they could do,\nor take, or eat, or abstain from to make themselves fertile. Not only do such\npursuits show how determined many people are to meet personal, social,\ncultural, and familial expectations of biological relatedness.* They also show\nhow much people internalize the idea that pregnancy is an accomplishment\n(Becker 2000). This is especially the case for women, since infertility has\nhistorically been conceptualized as a women’s problem, and women’s bodies\ncontinue to take center stage during infertility treatments (Thompson 2005)."
+        },
+        {
+          "x1": 162.57464599609375,
+          "y1": 1250.2335205078125,
+          "x2": 1030.39208984375,
+          "y2": 1630.87744140625,
+          "label": "paragraph",
+          "conf": 0.8994609117507935,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_12_crop_03_paragraph.jpg",
+          "text": "Wihiue working at the Clinic 1 withessed the pendered organization Of\nfertility treatments. I watched thousands of women going through an en-\ndeavor that demanded weeks, months, and even years of fertility treatment,\nand the corresponding way that men’s role in the process is sidelined.> This\noccurs partially because of physiology—particularly differences in the acces-\nsibility of eggs and sperm—and the need to prepare and monitor pregnant\npeople’s bodies for surgical procedures and their aftermath. But it also oc-\ncurs partially because of the way that treatment practices, procedures, and\nprerequisites are organized (Sandelowski and De Lacey 2002; Thompson\n2005). For example, even when couples that I helped treat faced a known"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_13_annotated.jpg",
+      "detections": [
+        {
+          "x1": 170.8900146484375,
+          "y1": 1123.39306640625,
+          "x2": 1033.384521484375,
+          "y2": 1625.7418212890625,
+          "label": "paragraph",
+          "conf": 0.951887845993042,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_13_crop_01_paragraph.jpg",
+          "text": "Once I stepped outside the clinical setting, both professionally and con-\nceptually, I found that a broader perspective on the potential causes of infertil-\nity did exist. In the research of some endocrinologists, andrologists, and even\ntoxicologists, infertility was viewed almost as a side effect—an aftershock of\nindustrialization, institutional policies, inequitable legacies, and pollution.\nThis was especially true in the case of men’s infertility, which had a more\noutward-facing orientation, while research on women’s infertility seemed\nto still be more tethered to the body (Martin 1987). Studies of sperm decline\nemphasized not only individual behaviors, genes, and physical characteristics\nbut also the effects of occupational settings, pollutants, food, and household\nproducts on male developmental and reproductive health. In my reading, it\nseemed that such research almost characterized male infertility as a proxy\ndiagnosis for a world order struggling to reproduce itself."
+        },
+        {
+          "x1": 172.19009399414062,
+          "y1": 463.0072021484375,
+          "x2": 1034.7398681640625,
+          "y2": 1119.998046875,
+          "label": "paragraph",
+          "conf": 0.9515788555145264,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_13_crop_02_paragraph.jpg",
+          "text": "Many scholars of reproduction have more thoroughly explored these\ngendered aspects of reproductive technologies in and outside of fertility\nclinics. When I began attending graduate school at the New School for Social\nResearch in 2005 while still working at the clinic, I began reading this social\nscience of reproduction and merging my interest in the gendered experiences\nof infertility with the causal questions that patients and I had asked. I quickly\nembraced a feminist critique of the “biological clock” that recognized the\nstructural reasons for people delaying pregnancy and attributed rising infer-\ntility rates to the gendered organization of social and economic life (Friese,\nBecker, and Nachtigall 2006). Still, such reflections on age and work did\nnot seem to capture the concerns of people whose diagnoses fell within\nthe 20 percent of unexplained infertility or even the 40 percent of patients\ndiagnosed with male-factor infertility (which at the time was not commonly\nlinked to age).° Although those I had worked with at CRMI researched the\ncausal factors of infertility from the standpoint of individual bodies, I won-\ndered if others were thinking through conditions of life outside the individu-\nalized body that might lead to infertility."
+        },
+        {
+          "x1": 166.97149658203125,
+          "y1": 107.89707946777344,
+          "x2": 1029.7757568359375,
+          "y2": 456.15069580078125,
+          "label": "paragraph",
+          "conf": 0.9243811964988708,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_13_crop_03_paragraph.jpg",
+          "text": "male-factor issue, extensive diagnostic tests were often required of women.\nThese included not only simple blood draws but also more elaborate and\nexpensive procedures such as hysterosalpingograms and laparoscopies.\nThe most common treatment for male-factor diagnosis, ICSI, requires that\nwomen undergo IVF, which involves weeks of hormonal injections, multiple\ntransvaginal ultrasounds, and the surgical retrieval of eggs as well as the\nimplantation of embryo(s). The necessary extent of women’s role in infertil-\nity treatments has been exacerbated by the gendered focus of reproductive\nscience and medicine."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_14_annotated.jpg",
+      "detections": [
+        {
+          "x1": 150.92906188964844,
+          "y1": 584.5330810546875,
+          "x2": 1035.9219970703125,
+          "y2": 1164.6632080078125,
+          "label": "paragraph",
+          "conf": 0.9284660220146179,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_14_crop_01_paragraph.jpg",
+          "text": "‘To study infertility as a condition that comes about in specific and dy-\nnamic political, economic, social, and chemical contexts is to expand not\nonly infertility’s etiology but also its applicability. Understanding infertility\nas an environmental issue moves beyond the individual, beyond the partner-\nship or the choice, beyond clinical diagnosis of advanced maternal age and\npoor sperm motility, to a wider diagnostic lens. Of course, such an approach\nis not immune to the gendered stereotypes that permeate infertility treat-\nment and research. Histories of individualism and biological determinism\nare also conscripted into ideas of environmental health. Consequently, an\nenvironmental approach to infertility cannot replace the idea of infertility as\nindividualized reproductive failure. But such a perspective might encourage\npeople to regard infertility as more than an individual's inability to reproduce\nanother individual. The reproductive toxicology I discuss in the remainder\nof this book is an imperfect tool through which a reworking of infertility\nmight continue."
+        },
+        {
+          "x1": 158.8568115234375,
+          "y1": 113.33010864257812,
+          "x2": 1033.4193115234375,
+          "y2": 576.8327026367188,
+          "label": "paragraph",
+          "conf": 0.924299955368042,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_14_crop_02_paragraph.jpg",
+          "text": "This book is an effort to further articulate these high stakes by shift-\ning the study of infertility beyond the individual toward “the environment.”\nToday, environment can mean many things, and its usage is often problemati-\ncally reductive or muddled (Keller 2002). But what happens to the idea of\ninfertility when it is stretched to environmental scales? “The woman in the\nbody” might be situated within multiple contingent relations, infrastructures,\nexposures, and imaginaries (Petchesky 1987; Martin 1987). Reproduction\nmight be reconsidered as an act that does not “end at our bodies” (Murphy\n2013). Reproductive technologies might be reconceptualized to include those\ntechno-scientific artifacts and arrangements of everyday life that exist out-\nside biomedical clinical settings (Haraway 1997b). And all politics might be\nunderstood as reproductive politics (Briggs 2018; Ginsburg and Rapp 1991)."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_15_annotated.jpg",
+      "detections": []
+    },
+    {
+      "page": 16,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_16_annotated.jpg",
+      "detections": [
+        {
+          "x1": 154.30125427246094,
+          "y1": 1240.3302001953125,
+          "x2": 1026.276123046875,
+          "y2": 1634.8388671875,
+          "label": "paragraph",
+          "conf": 0.9387415647506714,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_16_crop_01_paragraph.jpg",
+          "text": "Thank you to my postdoctoral supervisor, Sarah Franklin, for creating\nan amazing community of reproductive scholars and inviting me to be a\npart of it; your feedback, support, and scholarship were crucial to writing\nthis book. Thank you to my doctoral advisor, Cori Hayden, whose patience,\nadvice, suggestions, support, and thoughtful questions during dog-walks\naround North Oakland saw me through my PhD at Berkeley. Thank you to\nVincanne Adams, Lawrence Cohen, and Yeh Wen-Hsin for everything you\ndid as dissertation committee members and continue to do as mentors to\nsupport me intellectually and professionally. Thank you to my professors at\nthe New School, especially Hugh Raffles, who supported me in my master’s"
+        },
+        {
+          "x1": 154.682861328125,
+          "y1": 878.5261840820312,
+          "x2": 1025.7491455078125,
+          "y2": 1237.658203125,
+          "label": "paragraph",
+          "conf": 0.9207637310028076,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_16_crop_02_paragraph.jpg",
+          "text": "Thank you to everyone in Beijing, Shanghai, and especially Nanjing who,\nmore than ten years ago now, enabled this research. You befriended me and\ninvited me to events, dinners, hikes, site visits, interviews, and karaoke.\nThank you especially to those who worked at the DeTox Lab during this time\nfor enduring my many questions during formal and informal interviews and\nallowing me to shadow your work and accompany you inside and outside\nresearch settings. Thank you to the many other faculty, students, and re-\nsearchers in China who hosted and helped me while I was developing this\nproject and as I conducted research."
+        },
+        {
+          "x1": 642.084228515625,
+          "y1": 333.079833984375,
+          "x2": 1025.4102783203125,
+          "y2": 386.24310302734375,
+          "label": "title",
+          "conf": 0.5717960596084595,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_16_crop_03_title.jpg",
+          "text": "ACKNOWLEDGMENTS"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "annotated_image": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_17_annotated.jpg",
+      "detections": [
+        {
+          "x1": 165.9902801513672,
+          "y1": 105.30171966552734,
+          "x2": 1040.2874755859375,
+          "y2": 1000.8988647460938,
+          "label": "paragraph",
+          "conf": 0.9249647259712219,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_17_crop_01_paragraph.jpg",
+          "text": "education and encouraged me to pursue a PhD. Thanks also to the so/AN\nfaculty at Lewis & Clark College for growing my interest in social theory and\nanthropology, and helping me find an academic home in the social sciences.\nThank you to those who gave me feedback on this work in progress.\nThis includes participants in an early manuscript workshop and in the Chi-\nnaReproTech conference, including Sarah Franklin, Katharine Dow, Ayo\nWahlberg, Joy Zhang and Nancy Chen. Thank you to the many editors and\nanonymous reviewers who offered feedback on pieces of this text on their\nway to publication in various venues, including Cymene Howe, Ruth Rogaski,\nEmily Yates-Doerr, Christine Labuski, Andrea Ford, Heather Paxson, Iris\nBorowy, Alex Nading, and Sahra Gibbon. Thank you to the many individu-\nals and institutional groups who invited me to speak over the years, and the\nconversations that followed such engagements and transformed this book,\nespecially Megan Carney and the University of Arizona Center for Regional\nFood Studies Seminar participants; Matthew Kohrman and faculty and\ngraduate students at Stanford Anthropology; Alex Nading and participants\nin the Embodied Being, Environing World Symposium; Zoe Wool and the\nfaculty, postdocs, and students at the Chao Center for Asian Studies and\nDepartment of Anthropology at Rice University; and members of Bharat\nVenkat’s 2020 graduate seminar “The Body in Milieu.” Conversations and\nworkshops with Rene Almeling, Dwai Banerjee, David Bond, Joe DeStefano,\nLyle Fearnley, Brie Gettleson, Anna Jabloner, Gregor Sokol, Hentyle Yapp,\nJerry Zee, and many others were crucial to moving this project along."
+        },
+        {
+          "x1": 170.82736206054688,
+          "y1": 1274.658935546875,
+          "x2": 1038.7640380859375,
+          "y2": 1543.58935546875,
+          "label": "paragraph",
+          "conf": 0.8871697783470154,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_17_crop_02_paragraph.jpg",
+          "text": "Thank you to my colleagues at the University of Arizona who have sup-\nported meas I wrestled this manuscript into being, especially Megan Carney,\nRayshma Pereira, Eric Plemons, Catherine Lehman, Emma Blake, Lars Foge-\nlin, Ivy Pike, Hai Ren, Brian Silverstein, Stefanie Graeter, Tom Sheridan, Jen\nCroissant, and Diane Austin. Thank you to my research assistants, M. Bailey\nStephenson and Siwei Wu, as well as Emma Bunkley, Brittany Franck, and\nRinku Ashok Kumar, who helped me at various stages of this project."
+        },
+        {
+          "x1": 167.2071075439453,
+          "y1": 1004.0570678710938,
+          "x2": 1030.5670166015625,
+          "y2": 1277.4283447265625,
+          "label": "paragraph",
+          "conf": 0.8756760358810425,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_17_crop_03_paragraph.jpg",
+          "text": "Thank you to the many scholars who have written about and taught me\nabout reproduction and feminist science studies more generally. Through\ncourses, workshops, reviewer comments, and feedback on presentations, you\nbuild a supportive group that helps so many of us make our way through the\nacademy and the world. I feel lucky to share in such community and to have\ntaken courses with so many amazing academic women: Rayna Rapp, Adriana\nPetryna, Adele Clarke, Donna J. Haraway, Charis Thompson, and others."
+        },
+        {
+          "x1": 169.62564086914062,
+          "y1": 1544.7755126953125,
+          "x2": 1031.7281494140625,
+          "y2": 1681.0911865234375,
+          "label": "paragraph",
+          "conf": 0.5924906134605408,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_17_crop_04_paragraph.jpg",
+          "text": "Thank you to Ken Wissoker, series editors Vincanne Adams and Joao Biehl,\nand Joshua Gutterman Tranen for their support of this book, anonymous\nXvi ACKNOWLEDGMENTS"
+        },
+        {
+          "x1": 167.25936889648438,
+          "y1": 108.91669464111328,
+          "x2": 1032.4560546875,
+          "y2": 234.8728485107422,
+          "label": "paragraph",
+          "conf": 0.5741420984268188,
+          "crop": "storage\\processed\\Infertile Enviroments__20251022-203416\\page_17_crop_05_paragraph.jpg",
+          "text": "education and encouraged me to pursue a PhD. Thanks also to the so/AN\nfaculty at Lewis & Clark College for growing my interest in social theory and\nanthropology, and helping me find an academic home in the social sciences."
+        }
+      ]
+    }
+  ]
+}
